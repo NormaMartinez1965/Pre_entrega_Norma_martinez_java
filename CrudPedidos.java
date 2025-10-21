@@ -189,7 +189,7 @@ public class CrudPedidos {
                 } while (continuar.equals("S"));
             }
 
-            System.out.println("\n✅ Productos del pedido actualizados.");
+            System.out.println("\n Productos del pedido actualizados.");
         }
     }
 
