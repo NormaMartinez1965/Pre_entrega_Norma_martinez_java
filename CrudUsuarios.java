@@ -169,7 +169,7 @@ public class CrudUsuarios {
                 }
             }
 
-            System.out.println("\n✅ Usuario modificado correctamente.");
+            System.out.println("\n Usuario modificado correctamente.");
         } else {
             System.out.println("No se encontró un usuario con ese ID.");
         }
