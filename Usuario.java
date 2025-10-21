@@ -19,7 +19,7 @@ public class Usuario {
     }
 
     public Usuario(String nombre2, String correo2) {
-        //TODO Auto-generated constructor stub
+        
     }
 
     public int getId() {
