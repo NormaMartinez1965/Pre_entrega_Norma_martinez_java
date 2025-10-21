@@ -1,7 +1,7 @@
 package Inicio;
 
 public class Producto {
-    private static int contador = 1; // Generador automático de códigos únicos
+    private static int contador = 1; 
     private int codigo;
     private String nombre;
     private double precio;
