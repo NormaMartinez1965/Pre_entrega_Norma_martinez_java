@@ -73,4 +73,5 @@ public class Articulo {
         return "Articulo{id=" + id + ", nombre='" + nombre + "', precio=" + precio +
                ", categoria=" + categoria.getNombre() + "}";
     }
+
 }
