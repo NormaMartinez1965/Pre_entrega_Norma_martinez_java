@@ -1,10 +1,6 @@
 package Inicio;
 
-// ============================================================================
-// Clase Categoria (simple)
-// ----------------------------------------------------------------------------
-// Representa una categoría del catálogo (ej: "Tecnología").
-// ============================================================================
+
 public class Categoria {
 
     private int id;                 // Identificador único
@@ -34,3 +30,4 @@ public class Categoria {
         return "Categoria{id=" + id + ", nombre='" + nombre + "'}";
     }
 }
+
